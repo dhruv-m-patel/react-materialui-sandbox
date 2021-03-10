@@ -8,6 +8,7 @@ const useStyles = makeStyles(() => ({
     app: {
         fontFamily: `'Roboto', Arial, Helvetica, sans-serif`,
         fontSize: '1rem',
+        padding: '0.5rem',
     },
 }))
 
